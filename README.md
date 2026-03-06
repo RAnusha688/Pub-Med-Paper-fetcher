@@ -15,7 +15,7 @@ A Python command-line tool that fetches research papers from PubMed based on a q
 | ------------ | ----------------------------------- |
 | Python 3.10+ | Core programming language           |
 | Poetry       | Dependency and packaging management |
-| Git + GitHub | Version control and hosting         |
+| GitHub       | hosting         |
 | PubMed API   | Data source for research papers     |
 | xml.etree    | XML parsing of PubMed results       |
 
